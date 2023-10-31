@@ -4,7 +4,7 @@ import styles from './App.module.css';
 import Area from './components/AreaText';
 import { IContent} from './interface/Content';
 import Card from './components/Card';
-import { Link } from 'react-router-dom';
+
 
 
 
