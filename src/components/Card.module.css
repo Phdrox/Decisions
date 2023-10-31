@@ -1,0 +1,29 @@
+.card{
+    background-color:#23293D;
+    color: white;
+    border:1px solid black;
+    display: flex;
+    flex-direction: column;
+   text-align: center;
+    width: 100%;
+    border-radius: 1.2em;
+   margin-bottom: 2em;
+   box-shadow: 0 0 5px black ;
+}
+
+.card h1{font-size: 1.3em;}
+
+.headercard{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   height: 7vh;
+
+}
+
+
+.headercard h1{
+    width: 70%;
+    
+}

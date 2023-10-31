@@ -1,0 +1,39 @@
+
+.votes{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top:1em;
+    padding-bottom: 1em;
+    background-color: white;
+    border-radius: 1.2em;
+}
+
+
+
+.buttonB{
+    margin-top: 1em;
+    width: 10em;
+    height: 10em;
+    border-radius: 50%;
+    background-color: #23293D;
+    color: white;
+    cursor: pointer;
+    font-size: 1em;
+    border: none;
+
+}
+
+.buttonW{
+    margin-top: 1em;
+    width: 10em;
+    height: 10em;
+    border-radius: 50%;
+    background-color: #6374AE;
+    color: white;
+    border: none;
+  
+    cursor: pointer;
+    font-size: 1em;
+}
